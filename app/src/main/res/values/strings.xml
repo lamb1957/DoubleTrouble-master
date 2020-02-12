@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Double Trouble</string>
+    <string name="app_begin">ゲームを始める</string>
+    <string name="calltitle">タイトルへ戻る</string>
+    <string name="back">戻る</string>
+    <string name="start">スタート!</string>
+    <string name="score">スコア 0</string>
+    <string name="please_tap">タップしてください</string>
+    <string name="user_name">ユーザ名</string>
+    <string name="tutorial">チュートリアル</string>
+    <string name="discription">１上の文字の色を見ます\n２上の"色"を"文字で表した"\n　ボタンを下で押します\n３正しいとスコアが+1\n　間違えると-1です\n\n上記だと上の色が青なので\n文字がBLUEな左を選択します</string>
+</resources>
